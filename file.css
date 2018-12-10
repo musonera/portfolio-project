@@ -24,7 +24,7 @@ h1{
   }
   li{
     font-size: 25px;
-    color:brown;
+    color:rgb(5, 1, 1);
     padding: 15px;
   }
   P{
@@ -39,31 +39,27 @@ h1{
     border: 2px solid black; 
     
   }
-  nav{
-    max-width:960px;
-    margin:0 auto;
-    padding:5px;
-    margin-right: 0%;
+  navigation{
+    background-color:#2124a7;
+    box-shadow: 0 8px 6px -6px black;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
-  ul>li{
-    display: inline-block;
+  .navigation a{
+    float: right;
+    color:#a6a6a6;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 17px;
   }
-  nav>ul{
-    text-align: right;
+  .navigation a:hover{
+    background-color: black;
+    color: aliceblue;
   }
-  na>ul>li{
-    display:inline-block;
+  .navigation a:visited{
+    color: blue;
   }
   
-   nav>ul>li>a{
-     padding:5px;
-     text-transform: uppercase;
-     text-decoration: underline;
-     display: block;
-     color:grey;
-   font-size:25px;
-   margin-right:0;
-  } 
-  span{
-    font-style: italic;
-  }
