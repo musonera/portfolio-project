@@ -62,4 +62,23 @@ h1{
   .navigation a:visited{
     color: blue;
   }
+  ul>li{
+    display: inline-block;
+  }
+  nav>ul{
+    text-align: right;
+  }
+  na>ul>li{
+    display:inline-block;
+  }
+  
+   nav>ul>li>a{
+     padding:5px;
+     text-transform: uppercase;
+     text-decoration: underline;
+     display: block;
+     color:blue;
+     font-size:15px;
+     margin-right:0;
+    } 
   
