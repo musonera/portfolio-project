@@ -39,5 +39,23 @@ h1{
     border: 2px solid black; 
     
   }
-  
+  nav{
+    max-width:960px;
+    margin:0 outo;
+    padding:7px 0;
+    margin-right:0%;
+    }
+    nav > ul{
+    text-align:right;
+    }
+    nav>ul>li{
+    display:inline-block;
+    }
+    nav>ul>li>a{
+    text-transform:uppercase;
+    text-decoration:underline;
+    display:block;
+    color:blue
+    }
+ 
   
