@@ -1,6 +1,10 @@
 html{
     background-color:rgb(55, 156, 143);
 }
+img{
+    padding: 3px;
+    border: 2px solid black;
+}
 h1{
     color:rgb(20, 20, 20);
     font-style: italic;
@@ -12,13 +16,13 @@ h1{
   h2{
       color: black;
       font-style: normal;
-      font-size: 15px;
+      font-size: 25px;
       text-align: center;
       text-decoration: none;
       padding: 3px;
   }
   li{
-    font-size: 20px;
+    font-size: 15px;
     color:brown;
     padding: 10px
   }
