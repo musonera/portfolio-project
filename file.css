@@ -2,12 +2,20 @@ html{
     background-color:rgb(55, 156, 143);
 }
 h1{
-    color:blueviolet;
+    color:rgb(20, 20, 20);
     font-style: italic;
-    font-size: 50px;
+    font-size: 25px;
     text-align: center;
     text-decoration: underline;
     padding: 3px;
+  }
+  h2{
+      color: black;
+      font-style: normal;
+      font-size: 15px;
+      text-align: center;
+      text-decoration: none;
+      padding: 3px;
   }
   li{
     font-size: 20px;
