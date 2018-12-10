@@ -1,0 +1,53 @@
+h1{
+    color:blueviolet;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    padding: 3px;
+  }
+  li{
+    font-size: 20px;
+    color:brown;
+    padding: 10px
+  }
+  P{
+    color: black;
+    font-size:15px; 
+  }
+  table{
+    width: 300px;
+  }
+  table,tr,th,td{
+    padding: 10px;
+    border: 2px solid black; 
+    
+  }
+  nav{
+    max-width:960px;
+    margin:0 auto;
+    padding:5px;
+    margin-right: 0%;
+  }
+  ul>li{
+    display: inline-block;
+  }
+  nav>ul{
+    text-align: right;
+  }
+  na>ul>li{
+    display:inline-block;
+  }
+  
+   nav>ul>li>a{
+     padding:5px;
+     text-transform: uppercase;
+     text-decoration: underline;
+     display: block;
+     color:grey;
+   font-size:15px;
+   margin-right:0;
+  } 
+  span{
+    font-style: italic;
+  }
