@@ -39,46 +39,5 @@ h1{
     border: 2px solid black; 
     
   }
-  navigation{
-    background-color:#2124a7;
-    box-shadow: 0 8px 6px -6px black;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  .navigation a{
-    float: right;
-    color:#a6a6a6;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  .navigation a:hover{
-    background-color: black;
-    color: aliceblue;
-  }
-  .navigation a:visited{
-    color: blue;
-  }
-  ul>li{
-    display: inline-block;
-  }
-  nav>ul{
-    text-align: right;
-  }
-  na>ul>li{
-    display:inline-block;
-  }
   
-   nav>ul>li>a{
-     padding:5px;
-     text-transform: uppercase;
-     text-decoration: underline;
-     display: block;
-     color:blue;
-     font-size:15px;
-     margin-right:0;
-    } 
   
