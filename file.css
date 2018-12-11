@@ -1,11 +1,8 @@
 html{
     background-color: beige;
 }
-img{
-    padding: 3px;
-    border: 2px solid black;
-    text-align: center;
-}
+
+
 h1{
     color:rgb(20, 20, 20);
     font-style: italic;
@@ -56,6 +53,11 @@ h1{
     text-decoration:underline;
     display:block;
     color:blue
+    }
+    .photo{
+      text-align: center;
+      padding: 5px;
+
     }
  
   
